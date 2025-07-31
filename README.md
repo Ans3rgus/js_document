@@ -118,3 +118,18 @@
 
 <p>Сначала вычисляется условие: если оно истинно, тогда возвращается значение1, в противном случае – значение2.</p>
 
+<h1>Аналог для понимания через if и ?</h1>
+<p>Через if</p>
+	if (age > 18) {
+	  accessAllowed = true;
+	} else {
+	  accessAllowed = false;
+	}
+	
+	alert(accessAllowed);
+
+<p>Через ?</p>
+
+ 	let accessAllowed = (age > 18) ? true : false;
+
+<>
