@@ -82,3 +82,13 @@
 	// Преобразует не числа в числа
 	alert( +true ); // 1
 	alert( +"" );   // 0
+
+<h1>Разница между ++name и name++, где name - переменная</h1>
+
+	let counter = 1;
+	let a = ++counter; // (*)
+	alert(a); // 2
+
+ 	let counter = 1;
+	let a = counter++; // (*) меняем ++counter на counter++
+	alert(a); // 1
