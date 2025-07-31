@@ -92,3 +92,15 @@
  	let counter = 1;
 	let a = counter++; // (*) меняем ++counter на counter++
 	alert(a); // 1
+
+<h1>Побитовые операторы</h1>
+
+	AND(и) ( & )
+	OR(или) ( | )
+	XOR(побитовое исключающее или) ( ^ )
+	NOT(не) ( ~ )
+	LEFT SHIFT(левый сдвиг) ( << )
+	RIGHT SHIFT(правый сдвиг) ( >> )
+	ZERO-FILL RIGHT SHIFT(правый сдвиг с заполнением нулями) ( >>> )
+
+ 
