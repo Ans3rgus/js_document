@@ -1,7 +1,9 @@
 <h1>Подключение в HTML файле</h1>
     
-    <body>
+	<body>
 	    <script src="alert.js"></script>
-    </body>
+	</body>
     
-<h1>
+<h1>Всплывающее окно<h1>
+
+	alert('Привет')
