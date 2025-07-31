@@ -105,7 +105,7 @@
 
  <h1>Использование if, else if и else<h1>
 
-	  if (year < 2015) {
+	if (year < 2015) {
 	  alert( 'Это слишком рано...' );
 	} else if (year > 2015) {
 	  alert( 'Это поздновато' );
@@ -120,6 +120,7 @@
 
 <h1>Аналог для понимания через if и ?</h1>
 <p>Через if</p>
+
 	if (age > 18) {
 	  accessAllowed = true;
 	} else {
