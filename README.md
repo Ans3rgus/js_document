@@ -103,4 +103,14 @@
 	RIGHT SHIFT(правый сдвиг) ( >> )
 	ZERO-FILL RIGHT SHIFT(правый сдвиг с заполнением нулями) ( >>> )
 
+ <h1>Использование if, else if и else<h1>
+
+	  if (year < 2015) {
+	  alert( 'Это слишком рано...' );
+	} else if (year > 2015) {
+	  alert( 'Это поздновато' );
+	} else {
+	  alert( 'Верно!' );
+	}
+
  
