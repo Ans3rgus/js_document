@@ -1,3 +1,5 @@
+Основная информация с сайта: https://learn.javascript.ru/first-steps
+
 <h1>Подключение в HTML файле</h1>
     
 	<body>
