@@ -161,10 +161,23 @@
 	}
 
 <p>Пример</p>
+
  	let i = 0;
 	while (i < 3) { // выводит 0, затем 1, затем 2
 	  alert( i );
 	  i++;
 	}
 
- <h1>Цикл for</h1>
+ <h1>Цикл"do while"</h1>
+
+	do {
+	// тело цикла
+	} while (condition);
+
+ <p>Пример</p>
+	
+ 	let i = 0;
+	do {
+	  alert( i );
+	  i++;
+	} while (i < 3);
