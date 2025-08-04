@@ -168,16 +168,19 @@
 	  i++;
 	}
 
- <h1>Цикл"do while"</h1>
+<h1>Цикл"do while"</h1>
 
 	do {
 	// тело цикла
 	} while (condition);
 
- <p>Пример</p>
+<p>Пример</p>
 	
  	let i = 0;
 	do {
 	  alert( i );
 	  i++;
 	} while (i < 3);
+
+<h1>Цикл "for"</h1>
+
